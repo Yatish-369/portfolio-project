@@ -1,7 +1,5 @@
 # Portfolio Project
 
-![Project Screenshot](portfolio%20project/screenshot.png)
-
 ## 🌟 Overview
 This is a **personal portfolio website** that showcases projects, skills, and contact information. The goal of this project is to create a professional online presence.
 
