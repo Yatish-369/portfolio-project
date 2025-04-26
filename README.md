@@ -27,19 +27,3 @@ portfolio-project-main/
 │   ├── script.js (JavaScript for Interactivity)
 │   ├── screenshot.png (Project Preview)
 ```
-
-## 🏗️ How to Run the Project
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/YOUR-USERNAME/portfolio-project.git
-   ```
-2. **Open `index.html` in a browser.**
-
-## 🌍 Live Demo
-[Portfolio Live Demo](#) *(Replace with actual URL if hosted)*
-
-## 🤝 Contributing
-Feel free to fork this project and contribute! If you find any issues, submit a pull request.
-
-## 📬 Contact
-For any inquiries, reach out via [Your Email or Social Links].
